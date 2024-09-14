@@ -1,19 +1,24 @@
-Dynamic Chat Application:
-This project is a dynamic chat application built using Node.js, Express, MongoDB, and EJS templating.
-It allows users to create, view, edit, and delete chat messages between different users, mimicking the chat functionality.
+<h1>Dynamic Chat Application</h1>
+<p>This project is a dynamic chat application built using Node.js, Express, MongoDB, and EJS templating.
+It allows users to create, view, edit, and delete chat messages between different users, mimicking the chat functionality.</p>
 
-Features:
--View Chats: Displays a list of all chat messages stored in the MongoDB database.
--Create Chat: Allows users to create a new chat message specifying the sender, receiver, and message content.
--Edit Chat: Users can edit the content of an existing chat message.
--Delete Chat: Users can delete an existing chat message.
--CRUD Operations: The application supports full CRUD (Create, Read, Update, Delete) operations on chat messages.
+<h3>Features:</h3>
+<ul>
+  <li>View Chats: Displays a list of all chat messages stored in the MongoDB database.</li>
+  <li>Create Chat: Allows users to create a new chat message specifying the sender, receiver, and message content.</li>
+  <li>Edit Chat: Users can edit the content of an existing chat message.</li>
+  <li>Delete Chat: Users can delete an existing chat message.</li>
+  <li>CRUD Operations: The application supports full CRUD (Create, Read, Update, Delete) operations on chat messages.</li>
+</ul>
 
-Technologies Used
--Node.js
--Express.js
--MongoDB
--Mongoose
--EJS
--HTML5
--CSS3
+<h2>Technologies Used</h2>
+<ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+  <li>Mongoose</li>
+  <li>EJS</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
+
