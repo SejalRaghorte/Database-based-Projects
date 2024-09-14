@@ -4,11 +4,11 @@ It allows users to create, view, edit, and delete chat messages between differen
 
 <h3>Features:</h3>
 <ul>
-  <li>View Chats: Displays a list of all chat messages stored in the MongoDB database.</li>
-  <li>Create Chat: Allows users to create a new chat message specifying the sender, receiver, and message content.</li>
-  <li>Edit Chat: Users can edit the content of an existing chat message.</li>
-  <li>Delete Chat: Users can delete an existing chat message.</li>
-  <li>CRUD Operations: The application supports full CRUD (Create, Read, Update, Delete) operations on chat messages.</li>
+  <li><b>View Chats:</b> Displays a list of all chat messages stored in the MongoDB database.</li>
+  <li><b>Create Chat:</b> Allows users to create a new chat message specifying the sender, receiver, and message content.</li>
+  <li><b>Edit Chat:</b> Users can edit the content of an existing chat message.</li>
+  <li><b>Delete Chat:</b> Users can delete an existing chat message.</li>
+  <li><b>CRUD Operations:</b> The application supports full CRUD (Create, Read, Update, Delete) operations on chat messages.</li>
 </ul>
 
 <h2>Technologies Used</h2>
