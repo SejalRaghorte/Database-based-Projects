@@ -12,9 +12,9 @@
 
 <h3>Technologies Used</h3>
 <ul>
-  <li>Node.js: JavaScript runtime environment for building server-side applications.</li>
-  <li>Express.js: Web framework for Node.js to create robust APIs and web applications.</li>
-  <li>MySQL: Relational database management system to store and manage user data.</li>
-  <li>EJS: Templating engine to generate dynamic HTML with embedded JavaScript.</li>
+  <li><b>Node.js:</b> JavaScript runtime environment for building server-side applications.</li>
+  <li><b>Express.js:</b> Web framework for Node.js to create robust APIs and web applications.</li>
+  <li><b>MySQL:</b> Relational database management system to store and manage user data.</li>
+  <li><b>EJS:</b> Templating engine to generate dynamic HTML with embedded JavaScript.</li>
 </ul>
 
